@@ -1,0 +1,1 @@
+("test1:/\ttest1 test schematic" (("open" (nil hierarchy "/{test test1 schematic }:a"))) (((-2.56875 -2.0) (2.56875 2.00625)) "a" "Schematics" 5))("NMOS_VTH:/\tNMOS_VTH NCSU_Devices_FreePDK45 symbol" (("open" (nil hierarchy "/{NCSU_Devices_FreePDK45 NMOS_VTH symbol }:a"))) (((-0.49375 -0.525) (0.84375 0.525)) "a" "Symbol" 2))

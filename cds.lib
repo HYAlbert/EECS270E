@@ -1,0 +1,7 @@
+DEFINE analogLib $CDSHOME/etc/cdslib/artist/analogLib
+DEFINE US_8ths   $CDSHOME/etc/cdslib/sheets/US_8ths
+DEFINE basic     $CDSHOME/etc/cdslib/basic
+DEFINE cdsDefTechLib $CDSHOME/etc/cdsDefTechLib
+DEFINE NCSU_TechLib_FreePDK45  $PDK_DIR/ncsu_basekit/lib/NCSU_TechLib_FreePDK45
+DEFINE NCSU_Devices_FreePDK45  $PDK_DIR/ncsu_basekit/lib/NCSU_Devices_FreePDK45
+DEFINE test /users/ugrad/alberyh1/EECS270E/test
