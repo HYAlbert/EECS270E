@@ -1,6 +1,6 @@
 \o Program:		@(#)$CDS: libManager version 6.1.8 - CAT37 09/15/2020 20:25 (sjfhw492) $
 \o Sub version:		sub-version  s146 
-\o Arguments:		-mpssession virtuoso2395457 -mpshost crystalcove.eecs.uci.edu 
+\o Arguments:		-mpssession virtuoso2580202 -mpshost crystalcove.eecs.uci.edu 
 \o Working Directory:	crystalcove.eecs.uci.edu:/users/ugrad/alberyh1/EECS270E
 \o 64-bit offsets
 \o Qt version: 		5.9.1
@@ -12,6 +12,13 @@
 \o ddSetForcedLib("") unnecessary.
 \o MPS service: map window
 \o Library Manager customization server connected.
+\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->libListBox->value = "test"
+\a cdsLibManager->libLineEdit->value = "test"
+\a cdsLibManager->cellListBox->value = "test1"
+\a cdsLibManager->cellLineEdit->value = "test1"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
 \a nrSetWindowVisibility(cdsLibManager "hide")
 \a _lmgrCloseIconify("cdsLibManager" 1)
 \o MPS service: shutdown

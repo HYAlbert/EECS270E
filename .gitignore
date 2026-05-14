@@ -1,0 +1,26 @@
+# Cadence logs and temporary files
+*.log
+CDS.log*
+libManager.log*
+si.log*
+*.cdslck*
+*.lock
+*.bak
+*~
+#*#
+
+# Simulation/output data
+simulation/
+psf/
+spectre.out
+*.raw
+*.tran
+*.trn
+*.ac
+*.dc
+*.stb
+*.mt0
+*.lis
+
+# OS/editor junk
+.DS_Store
